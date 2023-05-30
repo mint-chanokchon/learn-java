@@ -1,0 +1,6 @@
+
+	คือ การรวมตัวกันของตัวที่ถูกนำเนินการ
+	expression = operands & operators
+	operands = values, variables, numbers, quantity
+	operators = +, -, *, /, %
+	

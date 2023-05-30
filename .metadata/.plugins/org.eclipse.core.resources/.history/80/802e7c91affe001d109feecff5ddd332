@@ -1,0 +1,22 @@
+
+	ใช้สำหรับตั้งชื่อให้กับการอ้างอิงตำแหน่งในหน่วยความจำที่เก็บข้อมูลไว้
+	
+	Primitive data type ( ชนิดข้อมูลพื้นฐาน )
+	> [*] boolean
+		- size 1 bit
+	> byte
+		- size 1 bytes
+	> short
+		- size 2 bytes
+	> [*] int
+		- size 4 bytes
+	> long
+		- size 8 bytes
+	> float
+		- size 4 bytes
+	> [*] double
+		- size 8 bytes
+	> char [*]
+		- size 2 bytes
+	> String [*]
+		- size varies

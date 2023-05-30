@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.print("What is your name: ");
+		String name = scanner.nextLine();
+		
+		System.out.print("How old are you: ");
+		int age = scanner.nextInt();
+		scanner.nextLine(); // clear scanner
+		
+		System.out.print("What is your favorite food: ");
+		String food = scanner.nextLine();
+		
+		String message = "Hello " + name + ", You are " + age + " years old, You favorite " + food + "food.";
+		System.out.println(message);
+	}
+}

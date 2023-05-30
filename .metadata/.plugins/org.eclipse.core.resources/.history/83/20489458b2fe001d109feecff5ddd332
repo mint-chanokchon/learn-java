@@ -1,0 +1,10 @@
+	* compile คือ การแปรง source code เป็น machine code
+
+JDK ( Java Developer Kit )
+เป็นเครื่องมือที่ใช้สำหรับนักพัฒนา ช่วยให้เราเขียนโค้ดและสร้างสภาพแวดล้อม ( JRE )
+
+JRE ( Java Runtime Environment )
+มี libraries และ toolkits อย่างเช่น JVM
+
+JVM ( Java Virtual Machine )
+ใช้สำหรับแปรง byte code เป็น machine code โดย JVM จะเป็นส่วนหนึ่งของ JRE
