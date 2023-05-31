@@ -1,8 +1,7 @@
-import java.util.Scanner;
 
-public class Main {
-	public static void main(String[] args) {
-		double x;
+	Math note example
+	
+	double x;
 		double y;
 		double z;
 		
@@ -19,6 +18,3 @@ public class Main {
 		System.out.println("z is " + z);
 		
 		scanner.close();
-		
-	}
-}
